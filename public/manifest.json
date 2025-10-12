@@ -1,0 +1,16 @@
+{
+  "name": "Uklela",
+  "short_name": "Uklela",
+  "description": "Plataforma colaborativa para localizar pessoas desaparecidas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#3d7dff",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
